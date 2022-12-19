@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning Vue
 
-- 💬 Ask me about **Arduino, Internet of Things**
-
 - 📫 How to reach me **dwikiakbar78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
